@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It generates the first latter of my name in a LED screen. This letter is "O".
 
 ## How to test
 
-Explain how to use your project
+There are 8 buttons on the input side, you just have to activate the middle two ones. 
 
 ## External hardware
 
